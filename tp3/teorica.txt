@@ -1,0 +1,5 @@
+N>= 30 -> Binomial Aproximado
+n*p*(1-p) >q
+
+N<30 -> Binomial Exato
+n*p*(1-p)<q
