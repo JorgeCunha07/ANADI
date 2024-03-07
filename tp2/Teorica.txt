@@ -1,0 +1,8 @@
+-> Amostras normais -> Shapiro
+                    -> Lillefors
+                    -> QQ-normal plot
+
+->Variância igual -> Levenne
+
+->Ausencia de Outliers Significativas : Amostras Grandes retira -se (Teste Parametrico )
+                                        Amostras Pequenas não se retira
