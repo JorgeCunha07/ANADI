@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="636d5266-db58-485c-b1fd-8033327271c6" name="Changes" comment="Updated." />
+    <list default="true" id="636d5266-db58-485c-b1fd-8033327271c6" name="Changes" comment="Updated.">
+      <change beforePath="$PROJECT_DIR$/tp9/tp9.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tp9/tp9.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +108,7 @@
       <workItem from="1710449245454" duration="5952000" />
       <workItem from="1710958497010" duration="19000" />
       <workItem from="1712865156823" duration="5089000" />
-      <workItem from="1713469862448" duration="3426000" />
+      <workItem from="1713469862448" duration="4969000" />
     </task>
     <task id="LOCAL-00001" summary="Updated.">
       <option name="closed" value="true" />
@@ -156,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713472230186</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updated.">
+      <option name="closed" value="true" />
+      <created>1713473312595</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713473312595</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
